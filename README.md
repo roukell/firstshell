@@ -1,3 +1,4 @@
-# First Shell Script Documentation
+# Shell Script Documentation
 
-This repo stores the first shell scripts I have learned. For documentation only.
+This repo stores the first few shell scripts that I have learned.
+For documentation only.
