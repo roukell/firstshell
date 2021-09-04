@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script executes a givem command on multiple servers
+# This script executes a given command on multiple servers
 
 # Make sure the SERVER_LIST file exists.
 SERVER_LIST='/vagrant/servers'
